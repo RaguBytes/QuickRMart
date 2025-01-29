@@ -1,4 +1,4 @@
-# Ragu cart
+# Ragu Mart
 
 an E-commerce Website built with MERN stack.
 
