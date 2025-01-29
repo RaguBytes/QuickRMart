@@ -1,4 +1,4 @@
-# Ragu Mart
+# Quick R Mart
 
 an E-commerce Website built with MERN stack.
 
